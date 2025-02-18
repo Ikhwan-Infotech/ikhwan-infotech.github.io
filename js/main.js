@@ -35,7 +35,7 @@ jQuery(document).ready(function($) {
 
     $('#contact_submit').click(function(e){
         e.preventDefault();
-        var myemail = 'trumpet-prelim.0l@icloud.com';
+        var myemail = 'lasso_78limos@icloud.com';
         var name = $('#contact_name').val();
         var email = $('#contact_email').val();
         var subject = $('#contact_subject').val();
