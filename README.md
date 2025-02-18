@@ -1,2 +1,2 @@
 # ikhwan-infotech
-Ikhwan Infotech Website
+Company Website
