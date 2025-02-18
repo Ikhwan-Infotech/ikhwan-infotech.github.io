@@ -1,2 +1,2 @@
-# ikhwan-infotech.github.io
+# ikhwan-infotech
 Ikhwan Infotech Website
