@@ -1159,18 +1159,19 @@ blockquote.pull-right .small:after {
 }
 
 .carousel-indicators {
-  display: inline-block;
+  display: inline-flex;
+  flex-wrap: nowrap;
   margin: 20px auto;
   list-style: none;
   cursor: pointer;
+  padding-left: 0;
 }
 
 .carousel-indicators li {
   display: inline-block;
-  float: left;
   width: 16px;
   height: 16px;
-  margin: 0 4px;
+  margin: 0 3px;
   text-indent: -999px;
   background-color: #dddddd;
   border-radius: 50%;
